@@ -1,3 +1,9 @@
+
+
+### This code is associated with the paper from Lourenço et al., "Epidemiological and ecological determinants of Zika virus transmission in an urban setting". eLife, 2017. http://dx.doi.org/10.7554/eLife.29820
+
+
+
 # ArboWeD2
 (Arbo)virus (We)ather (D)riven (D)ynamics R-Package
 
